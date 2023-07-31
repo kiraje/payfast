@@ -1,0 +1,18 @@
+= 1.0.5 =
+* Style issue fixed.
+
+= 1.0.4 =
+* Image size customizer option added.
+* Customizer options order issue fixed.
+
+= 1.0.3 =
+* Title-tag and automatic-feed-links support added.
+
+= 1.0.2 =
+* Theme URI added.
+
+= 1.0.1 =
+* Font family link updated.
+
+= 1.0.0 =
+* Initial Release.
